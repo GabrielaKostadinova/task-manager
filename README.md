@@ -1,2 +1,2 @@
 # task-manager
-Task Manager е малко Python приложение за управление на задачи. Позволява да добавяш задачи, да ги преглеждаш в списък и да маркираш завършени. Използва SQLite база данни и работи директно в терминала, с лесно за разбиране меню и опция за изход.
+Task Manager is a small Python application for managing tasks. It allows you to add tasks, view them in a list, and mark them as completed. It uses an SQLite database and runs directly in the terminal, with an easy to understand menu and an option to exit.
